@@ -55,8 +55,18 @@ python app.py
 
 The app will be available at: http://127.0.0.1:5000/
 
+## Documentation of the Solution:
+
+### Link:
+https://docs.google.com/document/d/1CUa7UP9xhPXKJ8dyMfJvQrGbV4Y4PB5t/edit?usp=sharing&ouid=104962134286291058341&rtpof=true&sd=true
+
 ## Recorded Video of Flask Website
 
 ### Link:
 https://drive.google.com/file/d/1wrnI2DsT7nf-3tAUDYzl9M5TonXAbXDn/view?usp=sharing
+
+
+
+
+
 
