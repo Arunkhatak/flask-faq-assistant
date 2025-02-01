@@ -55,4 +55,8 @@ python app.py
 
 The app will be available at: http://127.0.0.1:5000/
 
+## Recorded Video of Flask Website
+
+### Link:
+https://drive.google.com/file/d/1wrnI2DsT7nf-3tAUDYzl9M5TonXAbXDn/view?usp=sharing
 
