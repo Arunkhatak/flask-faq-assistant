@@ -25,10 +25,13 @@ The FAQ Assistant is an Flask web application that answers user queries using a 
 ```bash
 git clone https://github.com/your-repo/faq-assistant.git
 cd faq-assistant
+````
 
 ### 2. Install Dependencies
 
+```bash
 pip install -r requirements.txt
+```
 
 ### 3. Set Up Environment Variables
 
@@ -36,16 +39,19 @@ Create a .env file and add your Google API Key:
 
 ```bash
 GOOGLE_API_KEY=your_api_key_here
+```
 
 ### 4. Start MongoDB
 
 ```bash
 mongod
+```
 
 ### 5. Run the Flask App
 
 ```bash
 python app.py
+```
 
 The app will be available at: http://127.0.0.1:5000/
 
